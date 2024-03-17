@@ -1,0 +1,20 @@
+class This Demo 
+{
+  int i;
+  Void setValue(int i)
+{
+  this.i=i;
+}
+  void show9()
+{
+ System.out .println(i);
+}
+ 
+ public static void  main(String [] args)
+{
+  Thsi Demo td=new ThisDemo();  
+    td.setValue(100);
+    td.show();
+} 
+
+}
